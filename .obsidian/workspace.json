@@ -180,13 +180,23 @@
               "icon": "lucide-list",
               "title": "Outline of 2025-11-21-588669247057035724"
             }
+          },
+          {
+            "id": "7138331dfaa9115d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +208,11 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "line-notes-sync:Sync LINE messages": false
+      "line-notes-sync:Sync LINE messages": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0480cd8cd3bb6df0",
+  "active": "5b61d28858adb9e4",
   "lastOpenFiles": [
     "Welcome.md",
     "LINE/2025-11-21-588669247057035724.md",
