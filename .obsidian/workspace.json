@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "ccb69c1f9cfe0252",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1e093d0a2179e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0480cd8cd3bb6df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINE/2025-11-21-588669247057035724.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-21-588669247057035724"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4c6aafb9aa82a308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51094a7d61ad873a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ff3a7f413568a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f117dfba7bce858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b61d28858adb9e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c452008ffc97bba7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b7017be1ac8f44d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1aaa7e7c3a746fa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c18b1c9c275300bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1045a0f064cf2abe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LINE/2025-11-21-588669247057035724.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-11-21-588669247057035724"
+            }
+          },
+          {
+            "id": "abe93235a21cfe94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LINE/2025-11-21-588669247057035724.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-11-21-588669247057035724"
+            }
+          },
+          {
+            "id": "1126ab920122d807",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3e9fd86adecfaf3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c0acd3d643985be1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LINE/2025-11-21-588669247057035724.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-11-21-588669247057035724"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "line-notes-sync:Sync LINE messages": false
+    }
+  },
+  "active": "0480cd8cd3bb6df0",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "LINE/2025-11-21-588669247057035724.md",
+    "LINE",
+    "Zettelkasten/20_LiteratureNote/吉博-今さら聞けない！政治のキホンが２時間で全部頭に入る 今さら聞けない！２時間で全部頭に入るシリーズ.md",
+    "Zettelkasten/30_FeelingNote",
+    "Zettelkasten/20_LiteratureNote",
+    "Zettelkasten/10_Parmanentnote",
+    "Zettelkasten/02_Rule",
+    "Zettelkasten/01_IndexNote",
+    "Zettelkasten"
+  ]
+}
